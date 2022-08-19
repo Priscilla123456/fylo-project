@@ -20,6 +20,11 @@
   height: 800px;
 }
 
+.robot-arm {
+  width: 100%;
+  height: 100%;
+}
+
 .ytv {
   margin-bottom: 102px;
   border: 2px solid hsl(243, 87%, 12%);
